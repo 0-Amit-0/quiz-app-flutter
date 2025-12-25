@@ -39,7 +39,12 @@ This project demonstrates a solid understanding of the Flutter ecosystem and cor
 ---
 
 ## 📸 Screenshots
-(start.jpg , second.jpg , third.jpg , end.jpg )
+<p align="center">
+  <img src="start.jpg" width="30%" />
+  <img src="second.jpg" width="30%" />
+  <img src="third.jpg" width="30%" />
+  <img src="end.jpg" width="30%" />
+</p>
 
 ---
 
@@ -60,4 +65,5 @@ This project demonstrates a solid understanding of the Flutter ecosystem and cor
 
 ---
 *Developed by **Amit Shakya** as a showcase of Full-Stack Mobile Development skills.*
+
 
