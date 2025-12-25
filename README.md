@@ -39,7 +39,7 @@ This project demonstrates a solid understanding of the Flutter ecosystem and cor
 ---
 
 ## 📸 Screenshots
-*(Tip: Take three screenshots: Start Screen, a Question with the Timer, and the Results screen. Upload them to your GitHub repo and link them here!)*
+(start.jpg , second.jpg , third.jpg , end.jpg )
 
 ---
 
@@ -60,3 +60,4 @@ This project demonstrates a solid understanding of the Flutter ecosystem and cor
 
 ---
 *Developed by **Amit Shakya** as a showcase of Full-Stack Mobile Development skills.*
+
